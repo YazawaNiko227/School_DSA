@@ -1,0 +1,10 @@
+apple|noun|quả táo|I eat an apple every day.|0
+beautiful|adj|đẹp|She is a beautiful girl.|1
+run|verb|chạy|He runs every morning.|0
+happy|adj|vui vẻ, hạnh phúc|They are happy with their new house.|1
+computer|noun|máy tính|I bought a new computer yesterday.|0
+study|verb|học tập|Students study hard for their exams.|0
+smart|adj|thông minh|He is a smart student.|0
+book|noun|sách|I love reading books.|1
+write|verb|viết|She writes poems in her free time.|0
+fast|adj|nhanh|The car is very fast.|0
